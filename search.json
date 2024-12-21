@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "countries/south_korea/index.html",
+    "href": "countries/south_korea/index.html",
+    "title": "South Korea",
+    "section": "",
+    "text": "South Korea",
+    "crumbs": [
+      "Home",
+      "Country guides",
+      "South Korea"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guides",
+    "section": "",
+    "text": "Lonely Bike is an effort to provide curated, edited, and up-to-date digital guidebooks for international bicycle touring. Lonely Bike is built by cyclists, for cyclists. Anyone and everyone is invited to get involved through Slack chat and Github.\nAll Lonely Bike content is released under a Creative Commons license.\n\nGuides\n\nBy countryBy routeBy topicBy map\n\n\n\n\n\n\n\nHTML\nPDF\nStatus\nUpdated\nGithub\n\n\n\n\nJapan\n\nlink\n\nDRAFT\n\n\n\n\nSouth Korea\n\nlink\n\nDRAFT\n\n\n\n\n\n\n\n\n\n\n\nHTML\nPDF\nLast updated\nGithub\n\n\n\n\nAround the World\n\n\n\n\n\n\nPan American\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHTML\nPDF\nLast updated\nGithub\n\n\n\n\nAround the World\n\n\n\n\n\n\nPan American"
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "How to help",
+    "section": "",
+    "text": "The success of Lonely Bike depends on two kinds of people:\n\nThose in the field who are willing to share what they see, when they see it. These are cyclists that are actively touring in the international locales covered by Lonely Bike.\nThose behind desks, who want to help shape the editorial process. This can be anybody that’s excited to pitch in.\n\n\n\n“If you see something, say something.”\nThe best way to help out is simply to join our Slack channel on your mobile device, find the country you’re traveling in, and engage in some Q&A with the other folks there. If the editors have specific questions, they’ll reach out to you directly.\n\n\n\n\n\n\nAbout chat privacy\n\n\n\nWhen you join the Lonely Bike Slack, you’ll be giving us permission to use the info that you provide in your chats to improve the guidebooks. This is strictly anonymous and we’ll never share your personal details.\n\n\n\n\n\n\n\n\n\n\n\nQuick start\n\n\n\n\nStart a Github account.\nBrowse the Lonely Bike project page.\nUnderstand the tech stack and style guide.\nLook for a starter issue.\nClone the relevant repos.\n\ngit clone https://github.com/lonely-bike/{repo} -b issue/{issue-number}\n\nFix the issue locally.\nSubmit a pull request.\n\ngit commit -am \"Fixed #{issue-number}\"\ngit push origin issue/{issue-number}\n\n\nIf you aren’t familiar with Open Source software and realted tooling, this process may seem pretty daunting. Fear not! Github allows you to edit files and make pull requests right from your web browser. More info here."
+  },
+  {
+    "objectID": "contribute.html#from-your-bike",
+    "href": "contribute.html#from-your-bike",
+    "title": "How to help",
+    "section": "",
+    "text": "“If you see something, say something.”\nThe best way to help out is simply to join our Slack channel on your mobile device, find the country you’re traveling in, and engage in some Q&A with the other folks there. If the editors have specific questions, they’ll reach out to you directly.\n\n\n\n\n\n\nAbout chat privacy\n\n\n\nWhen you join the Lonely Bike Slack, you’ll be giving us permission to use the info that you provide in your chats to improve the guidebooks. This is strictly anonymous and we’ll never share your personal details."
+  },
+  {
+    "objectID": "contribute.html#from-your-desk",
+    "href": "contribute.html#from-your-desk",
+    "title": "How to help",
+    "section": "",
+    "text": "Quick start\n\n\n\n\nStart a Github account.\nBrowse the Lonely Bike project page.\nUnderstand the tech stack and style guide.\nLook for a starter issue.\nClone the relevant repos.\n\ngit clone https://github.com/lonely-bike/{repo} -b issue/{issue-number}\n\nFix the issue locally.\nSubmit a pull request.\n\ngit commit -am \"Fixed #{issue-number}\"\ngit push origin issue/{issue-number}\n\n\nIf you aren’t familiar with Open Source software and realted tooling, this process may seem pretty daunting. Fear not! Github allows you to edit files and make pull requests right from your web browser. More info here."
+  }
+]
